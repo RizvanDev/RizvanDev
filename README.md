@@ -10,4 +10,4 @@
 
 ### Follow me
 
-[![](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rizvan-ahmedov-376714198)
+[![](https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/-376714198)
