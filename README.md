@@ -2,7 +2,7 @@
 ![](images/Linus-Torvalds.jpg)
   
 > ##### “Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.” 
-######<p align="right">Linus Torvalds</p>
+######<p align="right"> Linus Torvalds</p>
 
 ### About me
 ####  ___I'm a beginner front-end developer. I started to learn programming very recently and I really enjoy this activity!___
