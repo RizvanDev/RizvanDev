@@ -1,3 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8">
+ </head>
+ <body>
+
 ![](images/Linus-Torvalds.jpg)
 
 <div style="display: flex">
@@ -16,3 +23,5 @@
 
 </div>
 </div>
+ </body>
+</html>
