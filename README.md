@@ -5,9 +5,15 @@
  </head>
  <body>
 
+ <style>
+   .content{
+      display: flex;
+   }
+  </style>
+
 ![](images/Linus-Torvalds.jpg)
 
-<div style="display: flex">
+<div class="content">
 
 <div>
 
