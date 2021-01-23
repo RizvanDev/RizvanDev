@@ -1,7 +1,7 @@
 ![](images/Linus-Torvalds.jpg)
 
 ### About me
-###### _I'm a beginner front-end developer..._
+###### ___I'm a beginner front-end developer...___
 
 + #### Languages and Tools :
 
