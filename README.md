@@ -1,4 +1,4 @@
-![](images/Linus-Torvalds.png)
+![](images/Linus-Torvalds.jpg)
 
 About me
 Languages and Tools
