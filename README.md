@@ -1,3 +1,3 @@
-header
-
-about me
+![](images/Linus-Torvalds.png)
+About me
+Languages and Tools
