@@ -4,16 +4,10 @@
   <meta charset="utf-8">
  </head>
  <body>
-
- <style>
-   .content{
-      display: flex;
-   }
-  </style>
-
+  
 ![](images/Linus-Torvalds.jpg)
 
-<div class="content">
+<div class="content" style="display: flex;">
 
 <div>
 
