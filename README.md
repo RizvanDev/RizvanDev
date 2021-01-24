@@ -2,7 +2,7 @@
 ![](images/javascript.jpg)
   
 > ### “Most good programmers do programming not because they expect to get  paid or get adulation by the public, but because it is fun to program.” 
-_<p align="right">Linus Torvalds</p>_
+___<p align="right">Linus Torvalds</p>___
 
 ### About me
 ####  ___I'm a beginner front-end developer. I started to learn programming very recently and I really enjoy this activity!___
