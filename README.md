@@ -1,5 +1,5 @@
   
-![](images/js.jpg)
+![](images/javascript.jpg)
   
 > ### “Most good programmers do programming not because they expect to get  paid or get adulation by the public, but because it is fun to program.” 
 _<p align="right">Linus Torvalds</p>_
