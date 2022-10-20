@@ -6,7 +6,7 @@
 ___
 ### Languages and Tools :
 ![](https://img.shields.io/badge/-HTML-080908?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/-CSS-080908?style=for-the-badge&logo=css3)
-![](https://img.shields.io/badge/-javascript-080908?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/-React js-080908?style=for-the-badge&logo=React.js)
+![](https://img.shields.io/badge/-javascript-080908?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/-ReactJs-080908?style=for-the-badge&logo=React.js)
 ___
 ### Let's work together..
 
