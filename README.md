@@ -7,5 +7,5 @@ ___
 ___
 ### Let's work together..
 
-[![](https://img.shields.io/badge/-upwork-0077B5?style=for-the-badge&logo=linkedin)](https://upWork.com/in/-376714198/)
+[![](https://img.shields.io/badge/-upwork-0077B5?style=for-the-badge&logo=upwork)](https://upWork.com/in/-376714198/)
 ___
